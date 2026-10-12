@@ -8,4 +8,4 @@
 
 ## Steps
 - mix everything and
-- go for its
+- go for it
